@@ -1,4 +1,4 @@
-class HelloWorld {
+class variable {
     public static void main(String[] args) {
         
         int num1 = 5;
@@ -12,7 +12,7 @@ class HelloWorld {
 }
 
           //si se cumple la condicion muestra mensaje sino se cumple sigue de largo sin mostrar nada
-class HelloWorld {
+class variable {
     public static void main(String[] args) {
         
         int num1 = 5;
