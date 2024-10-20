@@ -1,0 +1,26 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        int num1 = 5;
+        int num2 = 10;
+        
+        if (num2 > num1) {
+             System.out.println("El num2 es mayor al num1");
+    }
+}
+
+}
+
+          //si se cumple la condicion muestra mensaje sino se cumple sigue de largo sin mostrar nada
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        int num1 = 5;
+        int num2 = 10;
+        
+        if (num1 > num2) {
+             System.out.println("El num2 es mayor al num1");
+    }
+}
+
+}
