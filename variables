@@ -1,0 +1,11 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        int numero = 5;
+        String nombre = "naisvelys";
+        char letra = 'n';
+        double temperatura = 35.5;
+        boolean siONo = true;
+        long largo = 123456789;
+    }
+}
